@@ -1,0 +1,24 @@
+{
+    "user": [
+        {
+            "username": "jyoti",
+            "passward": "jyoti@20",
+            "profile": {
+                "Descreption": "Hello my name is jyoti, i Love travel and meet new people and alwas smile",
+                "dob": "14 feb",
+                "Hobbis": "reading book",
+                "Gender": "femal"
+            }
+        },
+        {
+            "username": "jaya",
+            "passward": "jaya12@",
+            "profile": {
+                "Descreption": "Hello, my name is jaya and i love visiting",
+                "dob": "6 march",
+                "Hobbis": "dancing",
+                "Gender": "femal"
+            }
+        }
+    ]
+}
